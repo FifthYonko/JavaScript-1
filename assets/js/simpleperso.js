@@ -66,7 +66,6 @@ class Avatar{
       target.pv = 0;
   }
 }
->>>>>>> edf5af22f4653e542a61591f409f297b26488fc8
 
 var avatar = new Avatar("Goku");
 avatar.presentation();

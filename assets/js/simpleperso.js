@@ -84,7 +84,8 @@ class Roll {
     this.power = power;
     this.sexe = sexe;
     this.weapon = weapon;
-
+  }
+}
 class random {
   constructor(name, age, equipement, passive, pv) {
             this.name = name;
